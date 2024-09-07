@@ -33,7 +33,7 @@ function App() {
           <TabButton onSelect={()=>{handleSelect('state')}}>State</TabButton>
           </menu>
         </section>
-        Dynamic Data
+        Dynamic Content
       </main>
     </div>
   );
